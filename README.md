@@ -1,2 +1,2 @@
-# Personal-Project-1-
+# Online Learning PLatform
 HTML | CSS | JavaScript
